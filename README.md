@@ -2,13 +2,13 @@
 A series of different Natural Language Processing modellings experiments with various models to predict a tweet is disaster or not
 
 ## Table of Content
-  * [The Problem](##demo)
-  * [Goal](##goal)
-  * [Project Main Steps](#Project Main Steps)
-  * [Modeling](#Modeling)
+  * [The Problem](#the-problem)
+  * [Goal](#goal)
+  * [Project Main Steps](#project-main-steps)
+  * [Modeling](#modeling)
     * [Demo TensorBoard](#demo-tensorboard)
-  * [Conclusion](#Conclusion)
-  * [Software and Libraries](#Software and Libraries)
+  * [Conclusion](#conclusion)
+  * [Software and Libraries](#software-and-libraries)
 
 
 ## The Problem
