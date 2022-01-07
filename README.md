@@ -1,6 +1,16 @@
 # Natural-Language-Processing-with-TensorFlow
 A series of different Natural Language Processing modellings experiments with various models to predict a tweet is disaster or not
 
+## Table of Content
+  * [The Problem](##demo)
+  * [Goal](##goal)
+  * [Project Main Steps](#Project Main Steps)
+  * [Modeling](#Modeling)
+    * [Demo TensorBoard](#Demo TensorBoard)
+  * [Conclusion](#Conclusion)
+  * [Software and Libraries](#Software and Libraries)
+
+
 ## The Problem
 Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they're observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (e.g., disaster relief organizations and news agencies). But, it's not always clear whether a person's words are actually announcing a disaster. Take this example:
 
