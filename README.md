@@ -45,7 +45,8 @@ Text -> turn into numbers -> build a model -> train the model to find patterns -
 ### Demo TensorBoard
 
 #### [Clik Here!](https://tensorboard.dev/experiment/uZkruxrDTbO0mIVGGjkO6A/#scalars&run=Conv1D%2F20220107-013633%2Ftrain)
-![tersorboard](https://github.com/docum5/Natural-Language-Processing-with-TensorFlow/blob/main/Screen%20Shot%202022-01-07%20at%2011.20.38.png?raw=true)
+[<img target="_blankk" src="https://github.com/docum5/Natural-Language-Processing-with-TensorFlow/blob/main/Screen%20Shot%202022-01-07%20at%2011.20.38.png?raw=true" >](https://tensorboard.dev/experiment/uZkruxrDTbO0mIVGGjkO6A/#scalars&run=Conv1D%2F20220107-013633%2Ftrain)
+
 
 | Algorithm               | Accuracy | Precision | Recall | F1   |
 |-------------------------|----------|-----------|--------|------|
