@@ -1,6 +1,13 @@
 # Natural-Language-Processing-with-TensorFlow
 A series of different Natural Language Processing modellings experiments with various models to predict a tweet is disaster or not
 
+
+
+<p align="center">
+  <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width=200 />
+</p>
+
+
 ## Table of Content
   * [The Problem](#the-problem)
   * [Goal](#goal)
